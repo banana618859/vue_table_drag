@@ -3,10 +3,10 @@
  * @Author: yizheng.yuan
  * @Date: 2020-04-27 17:56:44
  * @LastEditors: yizheng.yuan
- * @LastEditTime: 2020-04-28 19:53:57
+ * @LastEditTime: 2020-04-28 20:00:47
  -->
 <template>
-  <div style="text-align: left;">
+  <div style="text-align: left; padding:15px;">
     <h3 style="text-align: left; padding:10px; background: #ccc;">
       仅仅用vxe-table实现表格行和列的拖拽
     </h3>

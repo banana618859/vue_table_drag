@@ -3,10 +3,10 @@
  * @Author: yizheng.yuan
  * @Date: 2020-04-27 14:03:15
  * @LastEditors: yizheng.yuan
- * @LastEditTime: 2020-04-28 19:54:50
+ * @LastEditTime: 2020-04-28 20:00:18
  -->
  <template>
-    <div>
+    <div style="padding:15px;">
       <h3 style="text-align: left; padding:10px; background: #ccc;">
         vue+element-ui+sortable.js实现表格行和列的拖拽 - 简书
       </h3>
